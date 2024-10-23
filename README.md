@@ -20,9 +20,9 @@ The objective of the Bank Loan Report dashboard is to analyze the loan applicati
 
 ## Dashboards:
 
-![]()
+![Summary](https://github.com/Sakshiistwal13/Bank-Loan-Report-Analysis/blob/main/summary_dashboard.png)
 
-![]()
+![Overview](https://github.com/Sakshiistwal13/Bank-Loan-Report-Analysis/blob/main/overview_dashboard.png)
 
 
 ## Key Insights:
