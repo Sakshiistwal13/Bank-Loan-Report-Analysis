@@ -27,7 +27,7 @@ The objective of the Bank Loan Report dashboard is to analyze the loan applicati
 
 ## Key Insights:
 
-Dashboard 1: Summary View 
+### Dashboard 1: Summary View 
 
 
 1)High Loan Approval Rate (Good Loans):
@@ -51,7 +51,7 @@ Insight: The average interest rate across all loans is 12.05%, and the average d
 Actionable Insight: Offer debt consolidation loans to borrowers with high DTIs to help manage their financial burden and improve loan performance.
 
 
-Dashboard 2: Overview 
+### Dashboard 2: Overview 
 
 
 1)Steady Increase in Loan Applications by Month:
